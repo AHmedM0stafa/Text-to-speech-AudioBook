@@ -5,10 +5,12 @@ read any audio book or PDF file using only 10 lines of python
 
 # Explan short vidoe 
 
+https://user-images.githubusercontent.com/103394239/202237684-6d5aab41-57c6-4141-ab8b-9a064a037fb1.mp4
 
 
-### Installation
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+### Installation libarays 
+Use the [pip](https://pip.pypa.io/en/stable/) package manager to install this lib.
 
 To read PDF file using Python
 
